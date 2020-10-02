@@ -1,2 +1,2 @@
 # fashion-designing
- Welcome in our website
+ Welcome to our website
